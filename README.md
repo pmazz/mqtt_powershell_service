@@ -3,9 +3,11 @@
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/pmazz/mqtt_powershell_service)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/pmazz/mqtt_powershell_service)](https://github.com/pmazz/mqtt_powershell_service/commits)
 
-A set of PowerShell scripts for subscribing to MQTT topics, deployed as Windows service.
+PowerShell script for subscribing to MQTT topics, deployed as Windows service.
 
-**Important**: The project is currently in its development phase.
+:star:
+**Important: This project is currently under development.**  
+Stay tuned !
 
 ## Setup
 
